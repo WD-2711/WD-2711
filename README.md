@@ -1,6 +1,7 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=WD-2711&show_icons=true&theme=radical"> 
 ### Yoo, I'm wd2711 👋
 
-- 🎓 Rookie in USTC. Interested in web, re and other geeky jobs.<img align="right" src="https://github-readme-stats.vercel.app/api?username=WD-2711&show_icons=true&theme=radical"> 
+- 🎓 Rookie in USTC. Interested in web, re and other geeky jobs.
 - 🤔 Intern at Tencent Keen Lab, working on gnn.
 - ⚡ Like all creative works.
 - 📫 Email me at: [chuanlongxie@mail.ustc.edu.cn](mailto:chuanlongxie@mail.ustc.edu.cn).
