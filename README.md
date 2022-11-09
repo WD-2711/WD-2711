@@ -1,7 +1,7 @@
 ### Yoo, I'm wd2711 👋
 
 - 🎓 Rookie in USTC. Interested in web, re and other geeky jobs.
-- 🤔 Intern at Tencent Keen Lab, working on graph neural networks.
+- 🤔 Intern at Tencent Keen Lab, working on gnn.
 - ⚡ Like all creative works.
 - 📫 Email me at: [chuanlongxie@mail.ustc.edu.cn](mailto:chuanlongxie@mail.ustc.edu.cn).
 
