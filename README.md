@@ -2,7 +2,7 @@
 
 ### Yoo, I'm wd-z711 👋
 
-- 🎓 Rookie in USTC. Interested in web, re and other geeky jobs. V&N.
+- 🎓 Rookie in USTC. Interested in web, re and other geeky jobs.
 - 🤔 Intern at Tencent Keen Lab, working on gnn.
 - ⚡ Like all creative works.
 - 📫 Email me at: [chuanlongxie@mail.ustc.edu.cn](mailto:chuanlongxie@mail.ustc.edu.cn).
